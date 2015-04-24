@@ -1,0 +1,24 @@
+body {
+	background-color: #3C4242;
+}
+
+.nextStudent {
+	background-color: #07AA9E;
+	width: 400px;
+	height: 100px;
+	border: 1px solid black;
+	border-radius: 20px;
+	margin-top: 5%;
+	font-size: 30px;
+}
+
+.nextStudent:hover {
+	background-color: #809E9B;
+}
+
+.shoutOut {
+	color: #07AA9E;
+	font-size: 1.5em;
+	margin-top: 10%;
+
+}
